@@ -1,0 +1,230 @@
+{
+  "books": [
+    {
+      "id": "1",
+      "title": "The Metamorphosis",
+      "author": "Franz Kafka",
+      "price": 7.99,
+      "image": "images/franzkafka.jpg",
+      "description": "The Metamorphosis is a novella by Franz Kafka, first published in 1915. It is about a man named Gregor Samsa who wakes up one morning to find himself transformed into a giant insect. The story explores themes of alienation, family dynamics, and the absurdity of human existence."
+    },
+    {
+      "id": "2",
+      "title": "Moonlight Street",
+      "author": "Stefan Zweig",
+      "price": 9.99,
+      "image": "images/ayısıgı.jpg",
+      "description": "Moonlight Street is a poignant tale by Stefan Zweig that delves into the complexities of human emotions and relationships. The story captures the essence of longing, love, and the fleeting nature of happiness."
+    },
+    {
+      "id": "3",
+      "title": "Chess",
+      "author": "Leo Tolstoy",
+      "price": 5.99,
+      "image": "images/satranc.jpg",
+      "description": "Chess by Leo Tolstoy is a compelling narrative that intertwines the game of chess with the profound struggles of the human soul. This thought-provoking story examines themes of strategy, power, and the moral dilemmas faced by individuals."
+    },
+    {
+      "id": "4",
+      "title": "Red",
+      "author": "Stefan Zweig",
+      "price": 9.99,
+      "image": "images/kızıl.jpg",
+      "description": "Red by Stefan Zweig is a gripping story that explores the depths of human passion and despair. Through vivid storytelling, Zweig paints a picture of love, betrayal, and the inner turmoil of his characters."
+    },
+    {
+      "id": "5",
+      "title": "Resurrection",
+      "author": "Leo Tolstoy",
+      "price": 19.99,
+      "image": "images/diriliş.jpg",
+      "description": "Resurrection is one of Leo Tolstoy's most powerful works, focusing on the themes of redemption and moral awakening. The novel tells the story of a nobleman seeking to atone for his past sins and the transformation that ensues."
+    },
+    {
+      "id": "6",
+      "title": "Moral Letters",
+      "author": "Seneca",
+      "price": 9.99,
+      "image": "images/seneca.jpg",
+      "description": "Moral Letters by Seneca is a collection of letters offering philosophical guidance and insights into living a virtuous life. Seneca's wisdom on ethics, personal development, and resilience remains relevant and inspiring."
+    },
+    {
+      "id": "7",
+      "title": "Meditations",
+      "author": "Marcus Aurelius",
+      "price": 3.99,
+      "image": "images/kendime-dusunceler.jpg",
+      "description": "Meditations by Marcus Aurelius is a series of personal writings by the Roman Emperor, reflecting on Stoic philosophy. The book offers timeless wisdom on self-discipline, ethical behavior, and the pursuit of inner peace."
+    }
+  ],
+  "events": [
+    {
+      "id": "1",
+      "title": "12 Angry Men",
+      "location": "Neu Theatre",
+      "price": "Free",
+      "original_price": 3.99,
+      "image": "images/12angrymen.jpg"
+    },
+    {
+      "id": "2",
+      "title": "Tenor",
+      "location": "Neu Theatre",
+      "price": "Free",
+      "original_price": 2.99,
+      "image": "images/tenor.jpg"
+    },
+    {
+      "id": "3",
+      "title": "Pinnocchio",
+      "location": "Neu Theatre",
+      "price": 3.99,
+      "image": "images/pinocchio.jpg"
+    },
+    {
+      "id": "4",
+      "title": "The Crucible",
+      "location": "Neu Theatre",
+      "price": 5.99,
+      "image": "images/thecrucible.jpg"
+    },
+    {
+      "id": "5",
+      "title": "Titanic",
+      "location": "Neu Theatre",
+      "price": 1.99,
+      "image": "images/titanic.jpg"
+    }
+  ],
+  "courses": [
+    {
+      "id": "1",
+      "title": "HTML Essentials",
+      "category": "Web Development",
+      "price": 33.99,
+      "originalPrice": null,
+      "image": "images/html.jpeg",
+      "description": "HTML (HyperText Markup Language) is the standard markup language used to structure web pages. HTML documents, which are readable by web browsers, are used to format and organize web pages."
+    },
+    {
+      "id": "2",
+      "title": "React JS Fundamentals",
+      "category": "Web Development",
+      "price": 23.99,
+      "originalPrice": 52.99,
+      "image": "images/react.jpeg",
+      "description": "React is an open-source JavaScript library used for building user interfaces. Developed and maintained largely by Facebook, React is commonly used to develop modern web applications like single-page applications and mobile apps."
+    },
+    {
+      "id": "3",
+      "title": "Full Stack Web Development",
+      "category": "Web Development",
+      "price": 33.99,
+      "originalPrice": null,
+      "image": "images/fullstack.jpeg",
+      "description": "Full Stack Development involves working on both the server side and client side of software development. This includes software engineers and developers who deal with all aspects of web applications."
+    },
+    {
+      "id": "4",
+      "title": "Adobe Photoshop Mastery",
+      "category": "Digital Design",
+      "price": 15.99,
+      "originalPrice": null,
+      "image": "images/adobe.jpeg",
+      "description": "Adobe Photoshop is a leading software tool for graphic design, photo editing, and digital art creation. It is used for professional-level image editing, color correction, graphic creation, and more."
+    },
+    {
+      "id": "5",
+      "title": "Node.js Crash Course",
+      "category": "Web Development",
+      "price": 1.99,
+      "originalPrice": null,
+      "image": "images/nodejs.jpeg",
+      "description": "Node.js is a fast, open-source runtime environment for executing JavaScript code. It is used for building server-side network applications and is fast, lightweight, and efficient. Node.js can be used alongside the package manager NPM."
+    }
+  ],
+  "auctions": [
+    {
+      "id": "1",
+      "title": "MacBook Air M1",
+      "category": "Electronics",
+      "currentBid": 400,
+      "image": "images/laptop.jpg",
+      "description": "The MacBook Air M1 features the latest Apple Silicon chip for blazing-fast performance and extraordinary battery life. With its sleek design and stunning Retina display, it's the perfect companion for work and play.",
+      "endTime": 1678497800000
+    },
+    {
+      "id": "2",
+      "title": "iPhone 13 128GB",
+      "category": "Electronics",
+      "currentBid": 300,
+      "image": "images/phone.jpg",
+      "description": "The iPhone 13 128GB offers advanced camera capabilities, powerful performance, and all-day battery life. With its immersive Super Retina XDR display, it delivers an unparalleled smartphone experience.",
+      "endTime": 1678497800000
+    },
+    {
+      "id": "3",
+      "title": "Beginners: 3 Books in 1 - ESL",
+      "category": "Books",
+      "currentBid": 200,
+      "image": "images/ibook.jpg",
+      "description": "This bundle includes three essential books for ESL beginners, covering grammar, vocabulary, and conversation skills. Whether you're learning English for travel, work, or personal enrichment, these books are your key to fluency.",
+      "endTime": 1678497800000
+    },
+    {
+      "id": "4",
+      "title": "VESTEL MOP",
+      "category": "Furniture",
+      "currentBid": 150,
+      "image": "images/süpürge.jpg",
+      "description": "The VESTEL MOP is a versatile cleaning tool that makes household chores a breeze. With its ergonomic design and powerful suction, it tackles dirt and dust with ease, leaving your floors sparkling clean.",
+      "endTime": 1678497800000
+    },
+    {
+      "id": "5",
+      "title": "LED TABLE LAMP",
+      "category": "Furniture",
+      "currentBid": 100,
+      "image": "images/lamp.jpg",
+      "description": "The LED TABLE LAMP combines style and functionality to illuminate any space with warmth and elegance. With its adjustable brightness and modern design, it's the perfect addition to your home or office.",
+      "endTime": 1678497800000
+    }
+  ],
+  "electronics": [
+    {
+      "id": "1",
+      "name": "Printer",
+      "description": "A high-quality inkjet printer with wireless connectivity and duplex printing.",
+      "price": 150,
+      "image": "images/yazıcı.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Charger",
+      "description": "A fast-charging USB-C charger compatible with multiple devices.",
+      "price": 25,
+      "image": "images/sarj.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Monitor",
+      "description": "A 24-inch Full HD monitor with adjustable stand and vibrant display.",
+      "price": 200,
+      "image": "images/monitor.jpg"
+    },
+    {
+      "id": "1db2",
+      "category": "/electronics",
+      "title": "",
+      "author": "",
+      "price": "1000",
+      "image": "",
+      "location": "",
+      "original_price": "",
+      "currentBid": "",
+      "description": "Samsung S23 Plus",
+      "name": "Phone"
+    }
+  ],
+  "basket": []
+}
