@@ -15,7 +15,7 @@
 - **User-Friendly Interface:** Easy navigation and shopping experience.
 - **Detailed Product Descriptions:** Comprehensive information and images for each product.
 
-##Downloading and Running the Project
+## Downloading and Running the Project
 
  1. First, clone the project to your computer:
  ```
