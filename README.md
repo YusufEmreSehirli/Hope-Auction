@@ -15,7 +15,7 @@
 - **User-Friendly Interface:** Easy navigation and shopping experience.
 - **Detailed Product Descriptions:** Comprehensive information and images for each product.
 
-  ##Downloading and Running the Project
+##Downloading and Running the Project
 
  1. First, clone the project to your computer:
  ```
@@ -38,7 +38,7 @@
  json-server --watch db.json --port 5000
  ```
 
- ## Download and Installation of JSON Server
+## Download and Installation of JSON Server
 
  1. First, run the following command in your terminal to install JSON Server:
  ```
